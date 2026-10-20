@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/lead", "destination": "/api/lead.js" }
+  ]
+}

@@ -1,0 +1,9 @@
+.env
+*.env
+node_modules/
+.vercel/
+*.mp4
+*.webm
+*.avi
+видео/
+Аудио/

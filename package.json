@@ -1,0 +1,13 @@
+{
+  "name": "ambar-ai",
+  "version": "1.0.0",
+  "description": "Ambar AI - B2B Artificial Intelligence & Automation Platform",
+  "scripts": {
+    "build:css": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/output.css --minify",
+    "watch:css": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  }
+}

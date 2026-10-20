@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "category": "Сантехника Траплари",
+    "code": "27984",
+    "name": "Зангламас пўлатдан сув оқизиш трапи",
+    "desc": "Тўрли металл юзаси ва сув чиқариш деталлари 4K аниқликда тикланган, хира фондаги соялар бартараф этилган.",
+    "ai_url": "https://silk_plaster.business.ru/cdn/public/231277/01a1499577017286b283ad42b9e584b9",
+    "old_url": "https://silk_plaster.business.ru/cdn/public/231277/019a299baea076ed879c643d2f405d62",
+    "local_ai": "images/showcase/item_1_after_ai.jpg",
+    "local_old": "images/showcase/item_1_before_old.jpg"
+  },
+  {
+    "id": "2",
+    "category": "Люкс Сантехника ва Кранлар",
+    "code": "27902",
+    "name": "Премиум хромли сув аралаштиргич (Смеситель)",
+    "desc": "Хром металл ялтироқлиги СИ студия ёритиши билан қайта ишланган, чалғитувчи фонлар тозаланиб, тижорий кўриниш берилган.",
+    "ai_url": "https://silk_plaster.business.ru/cdn/public/231277/019d19f6501074e2baffb0ed0bdcb8da",
+    "old_url": "https://silk_plaster.business.ru/cdn/public/231277/0199f633e8487f4a95d2243d0f2c1619",
+    "local_ai": "images/showcase/item_2_after_ai.jpg",
+    "local_old": "images/showcase/item_2_before_old.jpg"
+  },
+  {
+    "id": "3",
+    "category": "Энергия ва Батарейкалар",
+    "code": "27066",
+    "name": "Tinko ишқорли батарейкалари қадоғи",
+    "desc": "Кичик шрифтдаги техник ёзувлар, логотип ва ранглар контрасти сунъий интеллект ёрдамида максимал тиниқликка келтирилган.",
+    "ai_url": "https://silk_plaster.business.ru/cdn/public/231277/019f0a8b0da877e2968e227548dead5c",
+    "old_url": "https://silk_plaster.business.ru/cdn/public/231277/019f0a8b15787f228ce32e0e441c4af4",
+    "local_ai": "images/showcase/item_3_after_ai.jpg",
+    "local_old": "images/showcase/item_3_before_old.jpg"
+  },
+  {
+    "id": "4",
+    "category": "Мураккаб Сантехника Моделлари",
+    "code": "28261",
+    "name": "Тўсиқли сув клапани ва боковой трап",
+    "desc": "Пластик ва металл қисмларнинг мураккаб геометрияси студия даражасида ёритилиб, каталог учун 100% тайёр ҳолатга келтирилган.",
+    "ai_url": "https://silk_plaster.business.ru/cdn/public/231277/01a1430e1e0b70788c702dbc2c3baac7",
+    "old_url": "https://silk_plaster.business.ru/cdn/public/231277/019e1ca939e87c42a14e289c0e904c0e",
+    "local_ai": "images/showcase/item_4_after_ai.jpg",
+    "local_old": "images/showcase/item_4_before_old.jpg"
+  }
+]
